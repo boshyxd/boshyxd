@@ -3,7 +3,7 @@
 I'm **Angus**, an undergraduate student at Carleton University.
 
 -   ⚒️: **Java / Python / Lua / ReactJS**
--   🌱: **Computer Science** major doing work and assignments at CU
+-   🌱: **Computer Science** major at CU
 -   👨‍🦲: Pronouns: he/him
 
 ---
