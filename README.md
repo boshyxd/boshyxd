@@ -14,8 +14,8 @@
 <h3>About Me:</h3>
 
 - 🎓 I'm currently studying Computer Science at Carleton University
-- 💻 I specialize in Full Stack Development, AI/ML, and 3D Engines
-- 🌐 For front-end development, I use React.js, Next.js, Tailwind, and various UI libraries
+- 💻 I specialize in Full Stack Development
+- 🌐 For front-end development, I use React.js, Next.js, Tailwind, and various UI libraries (Radix, shadcn, NextUI, MUI)
 - 🛠️ For back-end development, I work with MongoDB + Mongoose, Next.js API Routes, Mailgun, and Stripe
 - 🚀 I'm proficient in Java, Python, Rust, Lua, and C++
 - 🔭 I'm interested in AI and training Local LLMs for specific tasks
