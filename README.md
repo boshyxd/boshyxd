@@ -15,11 +15,11 @@
 
 - 🎓 I'm currently studying Computer Science at Carleton University
 - 💻 I specialize in Full Stack Development
-- 🌐 For front-end development, I use React.js, Next.js, Tailwind, and various UI libraries (Radix, shadcn, NextUI, MUI)
-- 🛠️ For back-end development, I work with MongoDB + Mongoose, Next.js API Routes, Mailgun, and Stripe
-- 🚀 I'm proficient in Java, Python, Rust, Lua, and C++
-- 🔭 I'm interested in AI and training Local LLMs for specific tasks
-- 🌱 I'm always eager to learn and explore new technologies
+- 🌐 For front-end development, I use React.js, Next.js, Tailwind, various UI libraries (Radix, shadcn, NextUI, ChakraUI), and more
+- 🛠️ For back-end development, I work with MongoDB + Mongoose, Next.js API Routes, Mailgun, Stripe, and more
+- 🚀 I'm proficient in Java, Python, C++, Rust, and Lua scripting
+- 🔭 I'm interested in AI and training/running Local LLMs for specific tasks as well as subagent specific systems
+- 🌱 I'm always eager to learn and explore new types of technology
 
 <p>Connect with me on:</p>
 <p>
