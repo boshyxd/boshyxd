@@ -60,7 +60,10 @@ const angus = {
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <a href="https://githubtrends.io">
+    <img width="49%" src="https://api.githubtrends.io/user/svg/boshyxd/langs" alt="GitHub Trends SVG" />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
