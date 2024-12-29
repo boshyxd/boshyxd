@@ -64,11 +64,10 @@ const angus = {
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white">
 </p>
 
-### UI Libraries
-- Radix UI
-- shadcn/ui
-- NextUI
-- Chakra UI
+### Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 📫 Connect With Me
 <p align="left">
