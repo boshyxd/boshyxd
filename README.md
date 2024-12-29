@@ -6,12 +6,13 @@
   <img src="https://img.shields.io/badge/University-Carleton%20University-success" />
 </div>
 
+<img align="right" width=150px height=150px alt="side_sticker" src="https://static.tildacdn.com/tild3534-6165-4663-b163-393865613863/giphy_5.gif" />
+
 <div align="center">
-<img align="right" width=200px height=200px alt="side_sticker" src="https://static.tildacdn.com/tild3534-6165-4663-b163-393865613863/giphy_5.gif" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Building+the+future+with+Full+Stack+Development+%F0%9F%92%BB)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Building+the+future+with+Full+Stack+Development+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
+
+<br />
 
 ## 👨‍💻 About Me
 
