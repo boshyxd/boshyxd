@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/University-Carleton%20University-success" />
+  <img src="https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat" />
 </div>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://static.tildacdn.com/tild3534-6165-4663-b163-393865613863/giphy_5.gif" />
@@ -39,9 +40,30 @@ const angus = {
 - 📧 Setting up email services with **Mailgun**
 - 🌱 Always learning and experimenting with new technologies
 
-## 🛠️ Tech Stack
+## 🏆 Achievements
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boshyxd&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boshyxd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=boshyxd&theme=dark&hide_border=true" />
+</p>
+
+## 📈 Activity & Languages
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</p>
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -69,6 +91,15 @@ const angus = {
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white">
 </p>
+
+## ⚡ Quick Stats
+
+<div>
+  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400px" />
+  <img src="https://readme-jokes.vercel.app/api?theme=react" width="400px" alt="Jokes Card" />
+</div>
+
+<br />
 
 ## 📫 Connect With Me
 
