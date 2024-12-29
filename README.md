@@ -7,12 +7,11 @@
 </div>
 
 <div align="center">
-  
+<img align="right" width=200px height=200px alt="side_sticker" src="https://static.tildacdn.com/tild3534-6165-4663-b163-393865613863/giphy_5.gif" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Building+the+future+with+Full+Stack+Development+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://static.tildacdn.com/tild3534-6165-4663-b163-393865613863/giphy_5.gif" />
 
 ## 👨‍💻 About Me
 
