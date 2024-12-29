@@ -72,9 +72,3 @@ const angus = {
   <a target="_blank" href="mailto:poisonhick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
   <a target="_blank" href="https://www.instagram.com/angusb2004/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
-
----
-
-<div align="center">
-  <i>⚡ Learning is a journey that never ends ⚡</i>
-</div>
