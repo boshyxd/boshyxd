@@ -40,6 +40,8 @@ const angus = {
 
 ## 🛠️ Tech Stack
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
 ### Languages
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
@@ -63,11 +65,6 @@ const angus = {
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white">
 </p>
-
-### Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 📫 Connect With Me
 <p align="left">
