@@ -50,9 +50,6 @@ const angus = {
     </thead>
     <tbody>
       <tr>
-        <td colspan="3" align="center"><b>Current Focus</b></td>
-      </tr>
-      <tr>
         <td>
           <!-- JavaScript/TypeScript -->
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
