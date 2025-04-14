@@ -23,7 +23,7 @@ const angus = {
   university: "Carleton University",
   major: "Computer Science",
   focus: "Full Stack Development",
-  passions: ["AI", "Local LLMs", "Building Scalable Web Applications"],
+  passions: ["Reverse Engineering", "UI/UX", "Scaling Stuff"],
   techStack: {
     languages: ["JavaScript/TypeScript", "HTML", "CSS", "Go", "Python", "Rust", "Scala", "LaTeX"],
     frameworks: ["React", "Next.js", "Tailwind CSS", "Vite", "Laravel"],
