@@ -175,6 +175,16 @@ const angus = {
 
 <br />
 
+## 🐍 GitHub Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 📫 Connect With Me
 
 <p align="left">
