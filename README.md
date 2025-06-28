@@ -151,35 +151,58 @@ const angus = {
 
 <!-- markdownlint-restore -->
 
-## Achievements
+## Achievements & Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boshyxd&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boshyxd&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+<details>
+<summary>📊 Advanced Metrics & Visualizations</summary>
+<br>
+
+<p align="center">
+  <img src="https://github.com/boshyxd/boshyxd/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+</details>
 
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boshyxd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=boshyxd&theme=dark&hide_border=true" />
-</p>
-
-## Activity Graph & Languages
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boshyxd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=boshyxd&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=boshyxd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" />
 </p>
 
-## Jokes
+## Activity Graph
 
-<div>
-  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400px" />
-  <img src="https://readme-jokes.vercel.app/api?theme=react" width="400px" alt="Jokes Card" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%" />
+</p>
+
+## Profile Views & Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boshyxd&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/boshyxd?label=Followers&style=for-the-badge&color=58A6FF" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge" />
+</p>
+
+<details>
+<summary>🎯 Fun Zone</summary>
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400px" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="400px" alt="Jokes Card" />
 </div>
+
+</details>
 
 <br />
 
