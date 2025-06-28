@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Angus</h1>
+<h1 align="center">Angus Bailey</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Age-20-blue" />
@@ -7,15 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat" />
 </div>
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://static.tildacdn.com/tild3534-6165-4663-b163-393865613863/giphy_5.gif" />
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Building+the+future+with+Full+Stack+Development+%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Building+the+future+with+Full+Stack+Development" alt="Typing SVG" /></a>
 </div>
 
 <br />
 
-## 👨‍💻 About Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+  </picture>
+</p>
+
+<br />
+
+## About Me
 
 ```javascript
 const angus = {
@@ -143,20 +151,20 @@ const angus = {
 
 <!-- markdownlint-restore -->
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=boshyxd&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boshyxd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=boshyxd&theme=dark&hide_border=true" />
 </p>
 
-## 📈 Activity & Languages
+## Activity Graph & Languages
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&area=true" width="100%" />
@@ -175,17 +183,7 @@ const angus = {
 
 <br />
 
-## 🐍 GitHub Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
-  </picture>
-</p>
-
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a target="_blank" href="https://discordapp.com/users/104850262845313024"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"></a>&nbsp;
