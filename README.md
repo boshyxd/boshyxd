@@ -158,7 +158,7 @@ const angus = {
 </p>
 
 <details>
-<summary>📊 Advanced Metrics & Visualizations</summary>
+<summary>Advanced Metrics & Visualizations</summary>
 <br>
 
 <p align="center">
@@ -194,7 +194,7 @@ const angus = {
 </p>
 
 <details>
-<summary>🎯 Fun Zone</summary>
+<summary>Fun Zone</summary>
 <br>
 
 <div align="center">
