@@ -1,7 +1,5 @@
-<h1 align="center">Angus Bailey</h1>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-20-blue" />
+  <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/University-Carleton%20University-success" />
   <img src="https://komarev.com/ghpvc/?username=boshyxd&color=blueviolet&style=flat" />
