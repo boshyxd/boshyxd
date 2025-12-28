@@ -169,7 +169,6 @@ const angus = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=boshyxd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" />
 </p>
 
 ## Activity Graph
