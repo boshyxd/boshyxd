@@ -149,10 +149,10 @@ const angus = {
 
 <!-- markdownlint-restore -->
 
-## Achievements & Metrics
+## Activity Graph
 
 <p align="center">
-  <img src="https://github.com/boshyxd/boshyxd/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%" />
 </p>
 
 ## GitHub Statistics
@@ -161,11 +161,16 @@ const angus = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </p>
 
-## Activity Graph
+## Achievements & Metrics
+
+<details>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%" />
+<img src="https://github.com/boshyxd/boshyxd/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
+
+</details>
+
 
 ## Profile Views & Insights
 
