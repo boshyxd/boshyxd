@@ -152,18 +152,8 @@ const angus = {
 ## Achievements & Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boshyxd&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<details>
-<summary>Advanced Metrics & Visualizations</summary>
-<br>
-
-<p align="center">
   <img src="https://github.com/boshyxd/boshyxd/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
-
-</details>
 
 ## GitHub Statistics
 
