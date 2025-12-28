@@ -174,12 +174,6 @@ const angus = {
 
 ## Profile Views & Insights
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boshyxd&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/boshyxd?label=Followers&style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge" />
-</p>
-
 <details>
 <summary>Fun Zone</summary>
 <br>
