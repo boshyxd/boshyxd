@@ -28,10 +28,9 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=boshyxd&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=dc2626&sideLabels=dc2626&dates=8b949e" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boshyxd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&ring_color=dc2626" />
-</div>
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=boshyxd&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=dc2626&sideLabels=dc2626&dates=8b949e" />
+</p>
 
 <br />
 
