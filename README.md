@@ -32,6 +32,14 @@
   <img width="60%" src="https://streak-stats.demolab.com?user=boshyxd&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=dc2626&sideLabels=dc2626&dates=8b949e" />
 </p>
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=boshyxd&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=5" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=boshyxd&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9" width="55%" />
+</p>
+
 <br />
 
 <p align="center">
