@@ -14,39 +14,59 @@
   </picture>
 </p>
 
-<br />
-
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,go,python,rust,scala,latex&theme=dark&perline=9" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,vitest,jest,nodejs,mongodb,docker,git&theme=dark&perline=10" />
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,go,python,rust,scala,latex&theme=dark&perline=5" />
+
+</td>
+<td align="center" width="50%">
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,mongodb,docker,git&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+</div>
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=boshyxd&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=dc2626&sideLabels=dc2626&dates=8b949e" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=boshyxd&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=5" width="100%" />
-</p>
+<img src="https://streak-stats.demolab.com?user=boshyxd&hide_border=true&background=00000000&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=dc2626&sideLabels=dc2626&dates=8b949e" width="100%" />
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=boshyxd&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9" width="55%" />
-</p>
+</td>
+<td align="center" width="50%">
 
-<br />
+<img src="https://github-contributor-stats.vercel.app/api?username=boshyxd&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=dc2626&text_color=c9d1d9" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=c9d1d9&line=dc2626&point=dc2626&area=true&area_color=dc2626&title_color=dc2626" width="100%" />
-</p>
+</td>
+</tr>
+</table>
+</div>
 
-<br />
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=dc2626&point=dc2626&area=true&area_color=dc2626&title_color=dc2626" width="100%" />
+
+</td>
+</tr>
+</table>
+</div>
 
 <details>
 <summary>Detailed Metrics</summary>
