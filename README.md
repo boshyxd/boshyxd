@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:dc2626&height=180&section=header&text=Angus%20Bailey&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:dc2626&height=180&section=header&text=Angus%20B&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=55&fontFamily=JetBrains+Mono" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=Building+things+that+matter;Reverse+Engineering+Enthusiast;UI%2FUX+%26+Frontend+Obsessed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=Building+things+that+matter;Reverse+Engineering+Enthusiast;UI%2FUX+%26+Frontend+Obsessed)](https://git.io/typing-svg)
 
 </div>
 
@@ -80,8 +80,7 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/104850262845313024"><img src="https://img.shields.io/badge/Discord-dc2626?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
-  <a href="mailto:angus.e.bailey@gmail.com"><img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.instagram.com/angusb2004/"><img src="https://img.shields.io/badge/Instagram-dc2626?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:angus.e.bailey@gmail.com"><img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:1a0000,100:0d1117&height=120&section=footer" />
