@@ -6,18 +6,13 @@
 
 </div>
 
-<br />
-
-```javascript
-const angus = {
-  university: "Carleton University",
-  major: "Computer Science",
-  focus: "Full Stack Development",
-  passions: ["Reverse Engineering", "UI/UX", "Scaling Stuff"],
-  currentFocus: "Optimal UI/UX and Frontend Development",
-  learning: "Everything I can, all at once",
-};
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+  </picture>
+</p>
 
 <br />
 
@@ -35,23 +30,13 @@ const angus = {
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=boshyxd&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=dc2626&sideLabels=dc2626&dates=8b949e" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshyxd&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=boshyxd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&ring_color=dc2626" />
 </div>
 
 <br />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=c9d1d9&line=dc2626&point=dc2626&area=true&area_color=dc2626&title_color=dc2626" width="100%" />
-</p>
-
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
-  </picture>
 </p>
 
 <br />
